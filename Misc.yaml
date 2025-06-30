@@ -1,0 +1,9 @@
+# NAME: Misc
+# AUTHOR: RanFR
+# UPDATED: 2025-06-30
+payload:
+  - DOMAIN-SUFFIX,cppreference.com
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,nomachine.com
+  - DOMAIN-SUFFIX,ros.org
+  - DOMAIN-SUFFIX,wandb.ai
