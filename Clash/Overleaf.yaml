@@ -1,0 +1,6 @@
+# NAME: Overleaf
+# AUTHOR: RanFR
+# UPDATED: 2025-07-08
+payload:
+  - DOMAIN-SUFFIX,overleaf.com
+  - DOMAIN-SUFFIX,overleafusercontent.com
