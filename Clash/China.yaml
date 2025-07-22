@@ -2,7 +2,7 @@
 # Original Author: blackmatrix7
 # Original Repo: https://github.com/blackmatrix7/ios_rule_script
 # AUTHOR: RanFR
-# UPDATED: 2025-07-10
+# UPDATED: 2025-07-22
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -17,7 +17,6 @@ payload:
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,sms.imagetasks.com
-  - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,weixin.com
   - DOMAIN,www.libvideo.com
   - DOMAIN,www.yxssp.com
@@ -3698,13 +3697,11 @@ payload:
   - DOMAIN-SUFFIX,zybang.com
   - DOMAIN-SUFFIX,zyh365.com
   - DOMAIN-SUFFIX,zzdtec.com
-  - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
-  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - IP-CIDR,1.255.62.0/24
