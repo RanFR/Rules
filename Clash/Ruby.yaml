@@ -1,0 +1,7 @@
+# NAME: Ruby
+# AUTHOR: RanFR
+# UPDATED: 2025-07-22
+payload:
+  - DOMAIN-SUFFIX,rubygems.org
+  - DOMAIN-SUFFIX,ruby-lang.org
+  - DOMAIN-SUFFIX,rvm.io
