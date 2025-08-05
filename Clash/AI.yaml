@@ -1,0 +1,10 @@
+# NAME: AI
+# AUTHOR: RanFR
+# UPDATED: 2025-08-05
+payload:
+  # Chatgpt
+  - DOMAIN-SUFFIX,chatgpt.com
+  # Claude
+  - DOMAIN-SUFFIX,claude.ai
+  # Gemini
+  - DOMAIN,gemini.google.com
