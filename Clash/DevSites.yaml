@@ -1,7 +1,11 @@
 # NAME: DevSites
 # AUTHOR: RanFR
-# UPDATED: 2025-08-05
+# UPDATED: 2025-08-06
 payload:
+  # Node.js
+  - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
   # Python
   - DOMAIN-SUFFIX,pycon.org
   - DOMAIN-SUFFIX,pypa.io
@@ -9,15 +13,11 @@ payload:
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
+  # Reddit
+  - DOMAIN-SUFFIX,reddit.com
   # Ruby
   - DOMAIN-SUFFIX,rubygems.org
   - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,rvm.io
-  # Node.js
-  - DOMAIN-SUFFIX,npm.community
-  - DOMAIN-SUFFIX,npmjs.com
-  - DOMAIN-SUFFIX,npmjs.org
-  # Reddit
-  - DOMAIN-SUFFIX,reddit.com
   # Stack Overflow
   - DOMAIN-SUFFIX,stackoverflow.com
