@@ -1,7 +1,13 @@
 # NAME: DevSites
 # AUTHOR: RanFR
-# UPDATED: 2025-08-06
+# UPDATED: 2025-08-08
 payload:
+  # Cppreference
+  - DOMAIN-SUFFIX,cppreference.com
+  # Huggingface
+  - DOMAIN-SUFFIX,huggingface.co
+  # Katex
+  - DOMAIN-SUFFIX,katex.org
   # Node.js
   - DOMAIN-SUFFIX,npm.community
   - DOMAIN-SUFFIX,npmjs.com
@@ -15,9 +21,13 @@ payload:
   - DOMAIN-SUFFIX,pythonhosted.org
   # Reddit
   - DOMAIN-SUFFIX,reddit.com
+  # ROS
+  - DOMAIN-SUFFIX,ros.org
   # Ruby
   - DOMAIN-SUFFIX,rubygems.org
   - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,rvm.io
   # Stack Overflow
   - DOMAIN-SUFFIX,stackoverflow.com
+  # Wandb
+  - DOMAIN-SUFFIX,wandb.ai
