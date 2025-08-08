@@ -2,7 +2,7 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # MAINTAINER: RanFR
-# UPDATED: 2025-08-05
+# UPDATED: 2025-08-08
 payload:
   - DOMAIN,scholar.google.com
   - DOMAIN-SUFFIX,1lib.cloud
@@ -142,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,oecd-ilibrary.org
   - DOMAIN-SUFFIX,oed.com
   - DOMAIN-SUFFIX,omscr.com
+  - DOMAIN-SUFFIX,orcid.org
   - DOMAIN-SUFFIX,osapublishing.org
   - DOMAIN-SUFFIX,oup.com
   - DOMAIN-SUFFIX,ouplaw.com
