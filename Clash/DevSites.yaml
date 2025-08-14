@@ -1,7 +1,9 @@
 # NAME: DevSites
 # AUTHOR: RanFR
-# UPDATED: 2025-08-08
+# UPDATED: 2025-08-14
 payload:
+  # CMake
+  - DOMAIN-SUFFIX,cmake.org
   # Cppreference
   - DOMAIN-SUFFIX,cppreference.com
   # Huggingface
@@ -19,6 +21,8 @@ payload:
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
+  # PyTorch
+  - DOMAIN-SUFFIX,pytorch.org
   # Reddit
   - DOMAIN-SUFFIX,reddit.com
   # ROS
