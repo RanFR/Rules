@@ -1,8 +1,10 @@
 # NAME: Misc
 # AUTHOR: RanFR
-# UPDATED: 2025-08-16
+# UPDATED: 2025-08-19
 payload:
+  - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,nomachine.com
   - DOMAIN-SUFFIX,sms-activate.io
