@@ -1,7 +1,8 @@
 # NAME: Misc
 # AUTHOR: RanFR
-# UPDATED: 2025-08-19
+# UPDATED: 2025-08-20
 payload:
+  - DOMAIN,dog.ssrdog.com
   - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,deepl.com
