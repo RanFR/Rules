@@ -10,6 +10,9 @@ payload:
   - DOMAIN-SUFFIX,huggingface.co
   # Katex
   - DOMAIN-SUFFIX,katex.org
+  # Kotlin
+  - DOMAIN-SUFFIX,kotlinconf.com
+  - DOMAIN-SUFFIX,kotlinlang.org
   # Node.js
   - DOMAIN-SUFFIX,npm.community
   - DOMAIN-SUFFIX,npmjs.com
