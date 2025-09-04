@@ -4,6 +4,14 @@
 # MAINTAINER: RanFR
 # UPDATED: 2025-08-05
 payload:
+  - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,auth0.com
@@ -27,5 +35,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-KEYWORD,openai
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,64.23.132.171/32
+  - IP-ASN,20473
