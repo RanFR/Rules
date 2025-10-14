@@ -1,7 +1,8 @@
 # NAME: Claude
 # AUTHOR: RanFR
-# UPDATED: 2025-07-10
+# UPDATED: 2025-10-14
 payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
