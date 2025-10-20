@@ -1,0 +1,13 @@
+# NAME: Download
+# AUTHOR: RanFR
+# UPDATED: 2025-10-20
+payload:
+  # Windows
+  - DOMAIN,download.microsoft.com
+  # Development
+  - DOMAIN,download.jetbrains.com
+  - DOMAIN,download.pytorch.org
+  # Drivers
+  - DOMAIN,download.amd.com
+  - DOMAIN,download.intel.com
+  - DOMAIN,download.nvidia.com
