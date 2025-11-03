@@ -1,0 +1,7 @@
+# NAME: Game
+# AUTHOR: RanFR
+# UPDATED: 2025-11-03
+payload:
+  # MAA
+  - DOMAIN-SUFFIX,maa.plus
+  - PROCESS-NAME,MAA.exe
