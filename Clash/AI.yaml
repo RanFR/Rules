@@ -1,6 +1,6 @@
 # NAME: AI
 # AUTHOR: RanFR
-# UPDATED: 2025-08-05
+# UPDATED: 2025-11-15
 payload:
   # Chatgpt
   - DOMAIN-SUFFIX,chatgpt.com
@@ -8,3 +8,5 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   # Gemini
   - DOMAIN,gemini.google.com
+  # Grok
+  - DOMAIN-SUFFIX,grok.com
