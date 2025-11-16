@@ -1,0 +1,6 @@
+# NAME: Grok
+# AUTHOR: RanFR
+# UPDATED: 2025-11-16
+payload:
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
